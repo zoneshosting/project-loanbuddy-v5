@@ -1,0 +1,1 @@
+import{j as a,M as t,T as e}from"./index-DMeELx6k.js";const o=()=>a.jsx(t,{title:"Lead Notes",children:a.jsx(e,{variant:"body2",children:"Track interactions and add notes for each lead. Document important details, conversations, and next steps in the mortgage application process."})});export{o as default};

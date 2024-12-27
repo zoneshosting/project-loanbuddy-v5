@@ -1,0 +1,1 @@
+import{j as a,M as t,T as e}from"./index-DMeELx6k.js";const i=()=>a.jsx(t,{title:"Active Leads",children:a.jsx(e,{variant:"body2",children:"View and manage your active mortgage leads here. This section shows all current leads with their status, contact information, and follow-up actions."})});export{i as default};

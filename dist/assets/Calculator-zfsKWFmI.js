@@ -1,0 +1,1 @@
+import{j as a,M as t,T as e}from"./index-DMeELx6k.js";const r=()=>a.jsx(t,{title:"Mortgage Calculator",children:a.jsx(e,{variant:"body2",children:"Calculate mortgage payments, interest rates, and amortization schedules. Help leads understand their financing options and monthly payments."})});export{r as default};

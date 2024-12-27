@@ -1,0 +1,1 @@
+import{j as a,M as e,T as r}from"./index-DMeELx6k.js";const t=()=>a.jsx(e,{title:"Reports & Analytics",children:a.jsx(r,{variant:"body2",children:"View detailed reports and analytics about your mortgage leads. Track conversion rates, analyze lead sources, and optimize your lead management process."})});export{t as default};
